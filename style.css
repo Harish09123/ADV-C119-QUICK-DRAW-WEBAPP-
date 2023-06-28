@@ -1,0 +1,39 @@
+body
+{
+    background-color: greenyellow;
+}
+
+#score
+{
+    font-size: 30px;
+    margin-left: 50px;
+}
+#confidence
+{
+    font-size: 25;
+}
+
+#sketch_name
+{
+    color: rgb(55, 55, 55);
+    
+}
+#timer
+{
+    font-size: 30px;
+    float: right;
+    margin-right: 20px;
+
+}
+
+p, span {
+    padding-top:10px;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+h1
+{
+    font-family: fantasy;
+    color: rgb(47, 116, 255);
+}
